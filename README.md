@@ -3,7 +3,7 @@
 >
 > This extension (Returnless Connector V2 for Magento 2) will receive no further updates, bug fixes, security patches or support. Issues and pull requests will not be reviewed. Do not install this extension for new integrations.
 >
-> Contact [support@returnless.com](mailto:support@returnless.com) for the currently supported way to connect your Magento 2 store to Returnless.
+> **Connecting Magento 2 to Returnless?** Returnless connects to Magento 2 through the Magento REST API, so no extension needs to be installed. See the support article [Magento 2 - Returnless Product Guide](https://support.returnless.com/article/1055-magento-2) for setup instructions. Contact [support@returnless.com](mailto:support@returnless.com) if you have questions.
 
 <p align="center">
   <img src="https://account.returnless.com/media/retour-integratie-magento-2.png" width="450"/>
